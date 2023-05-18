@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3537c18b.css",
+    "main.js": "/Portfolio/static/js/main.302a613c.js",
+    "static/media/crypto-info.jpg": "/Portfolio/static/media/crypto-info.190c362250707d29f830.jpg",
+    "static/media/bikebatallion.jpg": "/Portfolio/static/media/bikebatallion.0bcea9d5cfcd91045fcf.jpg",
+    "static/media/baby.jpg": "/Portfolio/static/media/baby.d5352e5ff7c3241a9f68.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.3537c18b.css.map": "/Portfolio/static/css/main.3537c18b.css.map",
+    "main.302a613c.js.map": "/Portfolio/static/js/main.302a613c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3537c18b.css",
+    "static/js/main.302a613c.js"
+  ]
+}
